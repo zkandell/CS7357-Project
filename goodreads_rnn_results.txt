@@ -1,149 +1,149 @@
-Fiction:
-Accuracy: 0.6926406926406926
-Precision: 0.6926406926406926
-Recall: 1.0
-F1: 0.8184143222506393
-
-Nonfiction:
-Accuracy: 0.7630853994490359
-Precision: 0
-Recall: 0.0
-F1: 0
-
 Fantasy:
-Accuracy: 0.7253049980322708
+Accuracy: 0.7513446421183285
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Adult:
-Accuracy: 0.7241243604879969
-Precision: 0
-Recall: 0.0
-F1: 0
-
-Classics:
-Accuracy: 0.7552144824872098
+Accuracy: 0.7186594952420355
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Historical:
-Accuracy: 0.8118850846123573
+Accuracy: 0.7952006619776583
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Roman:
-Accuracy: 0.8201495474222747
-Precision: 0
-Recall: 0.0
-F1: 0
-
-Literature:
-Accuracy: 0.8154269972451791
+Accuracy: 0.80471659081506
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Romance:
-Accuracy: 0.8248720975993703
+Accuracy: 0.8096814232519652
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Young Adult:
-Accuracy: 0.8150334513970877
+Accuracy: 0.8105088953247828
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Historical Fiction:
-Accuracy: 0.8299881936245572
+Accuracy: 0.8158874637980968
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Science:
-Accuracy: 0.8260527351436442
+Accuracy: 0.8307819611088125
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Mystery:
-Accuracy: 0.8339236521054703
+Accuracy: 0.829954489035995
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Contemporary:
-Accuracy: 0.8469106650924833
-Precision: 0
-Recall: 0.0
-F1: 0
-
-Novels:
-Accuracy: 0.8512396694214877
-Precision: 0
-Recall: 0.0
-F1: 0
-
-Audiobook:
-Accuracy: 0.8437622983077528
+Accuracy: 0.8287132809267688
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Thriller:
-Accuracy: 0.8567493112947658
+Accuracy: 0.8568473314025652
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Science Fiction:
-Accuracy: 0.8748524203069658
+Accuracy: 0.8804302854778652
 Precision: 0
 Recall: 0.0
 F1: 0
 
 History:
-Accuracy: 0.8980716253443526
+Accuracy: 0.8961522548613984
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Adventure:
-Accuracy: 0.9047619047619048
+Accuracy: 0.9122879602813405
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Philosophy:
-Accuracy: 0.9071231798504525
+Accuracy: 0.9069093918080264
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Biography:
-Accuracy: 0.9208972845336482
+Accuracy: 0.9064956557716177
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Crime:
-Accuracy: 0.9118457300275482
+Accuracy: 0.9102192800992966
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Self Help:
-Accuracy: 0.9193231011412829
+Accuracy: 0.9110467521721142
 Precision: 0
 Recall: 0.0
 F1: 0
 
 Psychology:
-Accuracy: 0.9205037386855569
+Accuracy: 0.9193214729002896
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Mystery Thriller:
+Accuracy: 0.9143566404633844
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Memoir:
+Accuracy: 0.9172527927182458
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Childrens:
+Accuracy: 0.9176665287546545
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Humor:
+Accuracy: 0.9313198179561439
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Suspense:
+Accuracy: 0.9304923458833264
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Horror:
+Accuracy: 0.9395945386843194
 Precision: 0
 Recall: 0.0
 F1: 0
