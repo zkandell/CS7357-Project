@@ -1,0 +1,150 @@
+Fiction:
+Accuracy: 0.6926406926406926
+Precision: 0.6926406926406926
+Recall: 1.0
+F1: 0.8184143222506393
+
+Nonfiction:
+Accuracy: 0.7630853994490359
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Fantasy:
+Accuracy: 0.7253049980322708
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Adult:
+Accuracy: 0.7241243604879969
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Classics:
+Accuracy: 0.7552144824872098
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Historical:
+Accuracy: 0.8118850846123573
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Roman:
+Accuracy: 0.8201495474222747
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Literature:
+Accuracy: 0.8154269972451791
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Romance:
+Accuracy: 0.8248720975993703
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Young Adult:
+Accuracy: 0.8150334513970877
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Historical Fiction:
+Accuracy: 0.8299881936245572
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Science:
+Accuracy: 0.8260527351436442
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Mystery:
+Accuracy: 0.8339236521054703
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Contemporary:
+Accuracy: 0.8469106650924833
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Novels:
+Accuracy: 0.8512396694214877
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Audiobook:
+Accuracy: 0.8437622983077528
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Thriller:
+Accuracy: 0.8567493112947658
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Science Fiction:
+Accuracy: 0.8748524203069658
+Precision: 0
+Recall: 0.0
+F1: 0
+
+History:
+Accuracy: 0.8980716253443526
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Adventure:
+Accuracy: 0.9047619047619048
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Philosophy:
+Accuracy: 0.9071231798504525
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Biography:
+Accuracy: 0.9208972845336482
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Crime:
+Accuracy: 0.9118457300275482
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Self Help:
+Accuracy: 0.9193231011412829
+Precision: 0
+Recall: 0.0
+F1: 0
+
+Psychology:
+Accuracy: 0.9205037386855569
+Precision: 0
+Recall: 0.0
+F1: 0
+
